@@ -12,7 +12,7 @@ int xor_trick(int *arr, int size){
 
 int main(){
     int n = readInt();
-    int *arr = malloc(sizeof(n) * sizeof(int));
+    int *arr = malloc((size_t)n * sizeof(int));
     readInt1DArray(arr, n);
     int c_res = xor_trick(arr, n);
     int asm_res = xor_trick_asm(arr, n);
