@@ -18,6 +18,8 @@ In this section, you will focus on implement the ALU Control and ALU units. Thes
 
 **Note**: This lab only requires the implementation of ALUCtrl and ALU. However, to help you better understanding the overall concept, suggestions for writing the Control unit are also provided.
 
+**[3/16 23:38 UPDATE] For grading consistency, please follow the RISC-V standard and the encodings defined below in this README.**
+
 ### How to Write Control
 - First, understand the ISA and what each field represents (OPcode, funct3, funct7, etc.).
 - Choose an instruction to implement.
@@ -26,7 +28,7 @@ In this section, you will focus on implement the ALU Control and ALU units. Thes
 - If not, use funct3 to assist in identifying the instruction.
 - Once the instruction is identified, it will output unique control signals depending on the instruction (PCSel, ALUOp, regWrite, memWrite, etc.).
 - For example, for the `sw` instruction, regWrite should be 0, and memWrite should be 1 (no need to write to the register, but memory needs to be written to).
-- ALUOp (for reference only)
+- ALUOp
 
 | Type   | ALUOp |
 | ------ | ----- |
@@ -38,8 +40,7 @@ In this section, you will focus on implement the ALU Control and ALU units. Thes
 ### How to Write ALUCtrl
 - ALUCtrl will receive ALUOp from the control unit, along with funct3 and funct7.
 - These inputs are used to determine which ALUCtrl signal (control signal) to output in order to control the ALU's operation.
-- The control signals can be customized as long as the final computation results are correct.
-- ALUCtrl (for reference only)
+- ALUCtrl
 
 | Type    | ALUCtrl |
 | ------- | ------- |
