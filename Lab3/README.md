@@ -77,7 +77,7 @@ addi t1 zero 100
 
 ### Architecture
 
-You can follow the architecture diagram to implement a single-cycle CPU.
+You can follow the architecture diagram to implement a single-cycle CPU. (not necessary to follow the exact design)
 
 ![lab3-artitecture](images/artitecture.jpg)
 
@@ -176,28 +176,8 @@ lab3_<student_id>.zip
 │   ├── ...(other source code files)
 ```
 
-To compress your file, run the following commands:
-
-```bash
-sudo apt-get install zip
-zip -rq lab3_<student_id>.zip lab3_<student_id>
-```
-
-After creating the zip file, you can verify its contents and folder structure by running:
-
-```bash
-chmod +x validate_zip.sh
-./validate_zip.sh lab3_<student_id>.zip
-```
-
-If the file format is correct, you should see the following message in the terminal:
-
-```
-Validation successful: All required files are present.
-```
-
 > [!WARNING]
-> The deadline for submission is 4/10 at 23:59. Submissions in an incorrect format will result in a 10-point deduction.
+> The deadline for submission is 4/12 at 23:59. Submissions in an incorrect format will result in a 10-point deduction.
 
 ## Hints
 
