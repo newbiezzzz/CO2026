@@ -140,7 +140,7 @@ Implement your RISC-V single-cycle CPU. Your CPU should support the following RI
 - Memory Operations: `lw`, `sw`
 - Branch Operations: `beq`, `bne`, `blt`, `bge`
 - Jump Operations: `jal`, `jalr`
-- U type Operation: `luipc`
+- U type Operation: `auipc`
 
 TAs have prepared a Verilator testbench and some `TEST_INSTRUCTION.txt` files to grade your design. The correctness will be verified by comparing the register values.
 
@@ -154,7 +154,7 @@ TAs have prepared a Verilator testbench and some `TEST_INSTRUCTION.txt` files to
 
 ## Submission
 
-Please submit your source code as a ZIP file to E3. The name of the ZIP file should be `lab2_<student_id>.zip`, and the structure should be as follows:
+Please submit your source code as a ZIP file to E3. The name of the ZIP file should be `lab3_<student_id>.zip`, and the structure should be as follows:
 
 ```
 lab3_<student_id>.zip
