@@ -60,8 +60,8 @@ Please submit your source code as a zip file to **E3**.
 The name of the zip file should be <student_id>.zip, and the structure of the file should be as the following:
 
 ```
-<stduent_id>.zip
-    |- <student_id>/
+lab4_<stduent_id>.zip
+    |- lab4_<student_id>/
         |- ...(your source codes)
 ```
 
