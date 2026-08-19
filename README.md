@@ -9,6 +9,7 @@ max_element: ![Image Description](images/lab1p2_max.PNG)
 2D dynamic programming: ![Image Description](images/lab1p3_dp.PNG)
 ---
 binary search recursion: ![Image Description](images/lab1recursion.PNG)
+---
 
 # Lab 2:
 ALUcontrol: ![Image Description](images/lab2alu_ctrl.PNG)
@@ -16,11 +17,13 @@ ALUcontrol: ![Image Description](images/lab2alu_ctrl.PNG)
 ALU: ![Image Description](images/lab2alu.PNG)
 ---
 Booth algorithm: ![Image Description](images/lab2multiplier.PNG)
+---
 
 # Lab 3:
-Ripes: ![Image Description](lab3ripes.PNG)
+Ripes: ![Image Description](images/lab3ripes.PNG)
 ---
-GTKwave: ![Image Description](lab3gtkwave.PNG)
+GTKwave: ![Image Description](images/lab3gtkwave.PNG)
+---
 
 
 ## Link to main repository of Computer Organization 2026, NYCU.
