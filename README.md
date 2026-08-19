@@ -1,3 +1,6 @@
+## Link to main repository of Computer Organization 2026, NYCU.
+Check out the main repo [lecture main github](https://github.com/nycu-caslab/CO2026/tree/main)
+
 ## Self-learning project
 ## To avoid copy issue, code is not shown in this repo, only tests image result is shown.
 # Lab 1: 
@@ -26,6 +29,3 @@ Ripes: ![Image Description](images/lab3ripes.PNG)
 GTKwave: ![Image Description](images/lab3gtkwave.PNG)
 ---
 
-
-## Link to main repository of Computer Organization 2026, NYCU.
-Check out the main repo [lecture main github](https://github.com/nycu-caslab/CO2026/tree/main)
