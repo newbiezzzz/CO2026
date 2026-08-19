@@ -1,4 +1,4 @@
-## Self-learning project, with images (no code shown)
+## Self-learning project, with images (code is not shown in this repo)
 # Lab 1: 
 xor_operator: ![Image Description](images/lab1xor.PNG)
 ---
