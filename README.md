@@ -1,5 +1,5 @@
 ## Self-learning project with images 
-## Code is not shown in this repo, only tests image result is shown.
+## To avoid copy issue, code is not shown in this repo, only tests image result is shown.
 # Lab 1: 
 xor_operator: ![Image Description](images/lab1xor.PNG)
 ---
