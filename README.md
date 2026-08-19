@@ -1,19 +1,19 @@
 ## Self-learning project, with images (no code shown)
 # Lab 1: 
-![Image Description](images/lab1xor.PNG)
-![Image Description](images/lab1operator.PNG)
-![Image Description](images/lab1p2_max.PNG)
-![Image Description](images/lab1p3_dp.PNG)
-![Image Description](images/lab1recursion.PNG)
+xor_operator: ![Image Description](images/lab1xor.PNG)
+operators: ![Image Description](images/lab1operator.PNG)
+max_element: ![Image Description](images/lab1p2_max.PNG)
+2D dynamic programming: ![Image Description](images/lab1p3_dp.PNG)
+binary search recursion: ![Image Description](images/lab1recursion.PNG)
 
 # Lab 2:
-![Image Description](images/lab2alu_ctrl.PNG)
-![Image Description](images/lab2alu.PNG)
-![Image Description](images/lab2multiplier.PNG)
+ALUcontrol: ![Image Description](images/lab2alu_ctrl.PNG)
+ALU: ![Image Description](images/lab2alu.PNG)
+Booth algorithm: ![Image Description](images/lab2multiplier.PNG)
 
 # Lab 3:
-![Image Description](lab3ripes.PNG)
-![Image Description](lab3gtkwave.PNG)
+Ripes: ![Image Description](lab3ripes.PNG)
+GTKwave: ![Image Description](lab3gtkwave.PNG)
 
 
 ## Link to main repository of Computer Organization 2026, NYCU.
